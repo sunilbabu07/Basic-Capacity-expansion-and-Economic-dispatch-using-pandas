@@ -4,8 +4,8 @@ This repository contains a Python-based optimization model for capacity expansio
 
 📌 Features
 
-# Capacity expansion for: Wind, Solar, Battery storage.
-# Fixed capacity for: Coal, Gas, Nuclear.
+* Capacity expansion for Wind, Solar, Battery storage.
+* Fixed capacity for Coal, Gas, Nuclear.
 * Hourly economic dispatch
 * Renewable penetration constraints
 * Storage charging/discharging with efficiencies
